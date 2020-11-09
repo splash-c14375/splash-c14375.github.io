@@ -1,10 +1,6 @@
 ---
 ---
 
-Page content:
-
-{:toc}
-
 ## 💡 About
 
 Welcome to our Splash 2020 website for C14375! Your instructors are:
@@ -41,6 +37,8 @@ We plan to cover a couple different methods most of which require little to no c
     - I'm at the Markdown language, I'm at the Github pages, I'm at the combination Markdown language Github pages.[^1]
     - [New CSS](https://newcss.net/)
     - CSS Frameworks in general ([Bootstrap](https://getbootstrap.com/))
+
+___
 
 [^1]: Elias has informed me this is a TikTok, and I am gravely disappointed.
 [^2]: Like this one!!! You can literally see this website's source code at <https://github.com/splash-c14375/splash-c14375.github.io/blob/main/index.md>.
