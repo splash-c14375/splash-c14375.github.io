@@ -1,6 +1,8 @@
 ---
 ---
 
+Page content:
+
 {:toc}
 
 ## 💡 About
@@ -27,19 +29,18 @@ We plan to cover a couple different methods most of which require little to no c
     - Buying a domain (using [Google Domains](https://domains.google))
     - Making your shortlinks your own (using [cutt.ly](https://cutt.ly))
 
-**Class Intermission**
-(Go get your snacks)
+3. **Class Intermission** (Go get your snacks)
 
-3. 📈 Intro to realer websites
+4. 📈 Intro to realer websites
     - What's a markup language?
     - What's a [Markdown](https://www.markdownguide.org/) language?
     - Honorable mention to [HackMD](https://hackmd.io), which is how Elias and I made this site collaboratively.
 
-4. 🧑‍💻 Next Level
+5. 🧑‍💻 Next Level
     - Making instant websites with [Github Pages](https://pages.github.com)[^2]
     - I'm at the Markdown language, I'm at the Github pages, I'm at the combination Markdown language Github pages.[^1]
     - [New CSS](https://newcss.net/)
     - CSS Frameworks in general ([Bootstrap](https://getbootstrap.com/))
 
 [^1]: Elias has informed me this is a TikTok, and I am gravely disappointed.
-[^2]: Like this one!!! You can literally see this website's source code at https://github.com/splash-c14375/splash-c14375.github.io/blob/main/index.md
+[^2]: Like this one!!! You can literally see this website's source code at <https://github.com/splash-c14375/splash-c14375.github.io/blob/main/index.md>.
