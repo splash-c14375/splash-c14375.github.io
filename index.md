@@ -45,7 +45,7 @@ We plan to cover a couple different methods most of which require little to no c
     - [New CSS](https://newcss.net/) framework
     - CSS Frameworks in general ([Bootstrap](https://getbootstrap.com/))
     - Static site generators ([Jekyll](https://jekyllrb.com), [Hugo](https://gohugo.io))
-    - Check out our websites (see [About](#about) section)
+    - Check out our websites (see [About](#-about) section)
     - You should also probably learn what [Git](https://git-scm.com) is.
 
 ___
