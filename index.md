@@ -1,4 +1,5 @@
 ---
+layout: newcss
 ---
 
 Welcome to our Splash 2020 website for C14375!
