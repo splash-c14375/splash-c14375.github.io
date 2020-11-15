@@ -50,5 +50,5 @@ We plan to cover a couple different methods most of which require little to no c
 
 ___
 
-[^1]: Elias has informed me this is a TikTok, and I am gravely disappointed.
+[^1]: Elias has informed me this is a TikTok, and Cameron is gravely disappointed.
 [^2]: Like this one!!! You can literally see this website's source code at <https://github.com/splash-c14375/splash-c14375.github.io/blob/main/index.md>.
