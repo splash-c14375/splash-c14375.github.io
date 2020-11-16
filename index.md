@@ -24,6 +24,7 @@ Thanks for coming to lecture. In order, here's some guides for building websites
 3. [Cutt.ly URL shortener](https://cutt.ly/) (supports custom domains)
 4. [Buying a domain with Google Domains](https://support.google.com/domains/answer/3453651?hl=en&ref_topic=3314003)
 5. [Learn more about IP addresses](https://en.wikipedia.org/wiki/IP_address)
+6. [Adding a custom domain to your Google Site **(NEW)**](https://support.google.com/sites/answer/9068867?hl=en)
 6. [Getting started with GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/getting-started-with-github-pages)
 7. [Custom domains on GitHub Pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
 8. [New CSS framework](https://newcss.net/)
@@ -31,6 +32,10 @@ Thanks for coming to lecture. In order, here's some guides for building websites
 10. [Jekyll static site generator](https://jekyllrb.com) (built into GitHub Pages)
 11. [Learn about running ads on your site with AdSense](https://support.google.com/adsense/answer/6242051)
 12. [Get started with Google Analytics](https://support.google.com/analytics/answer/9306384?hl=en&ref_topic=9303319) (see how many people are using your site)
+
+## 🧑‍🎓 Student Submissions
+
+- Joseph W's Bike Shop: <https://cutt.ly/Joesbikeshop-nh>
 
 ## 📔 Lecture
 
